@@ -18,7 +18,7 @@ Le Juste Prix est un mini-jeu interactif développé en JavaScript pur, accompag
 
 1. Téléchargez ou clonez le projet
 
-git clone https://github.com/Alioune4002/juste-prix.git
+git clone https://github.com/Alioune4002/Le-jeu-du-juste-prix.git
 cd juste-prix
 
 2. Lancez le jeu
